@@ -227,6 +227,32 @@
   "thumb": "thumbs/CX-M01.jpg"
  },
  {
+  "id": "CX-CM-01",
+  "name_zh": "線材出口固定座",
+  "qty": 4,
+  "material": "ASA／ABS",
+  "kind": "print",
+  "group": "module",
+  "source": "alan",
+  "notes": "鎖在熱端模組（CX-M01）頂上。線束與 PTFE 管（內徑 2 外徑 4）先前傾越過頭端彈簧，再以 R35 轉向機台後方，出口 45° 斜上；三處束帶固定，彎折只發生在座子後面的大弧度。線束從座子出口算起 633 mm（總長 690 mm，其中 57 mm 在座子裡）。",
+  "print_up": "座子底面貼床",
+  "supports_cm2": 2.4,
+  "mass_g": 7.1,
+  "bbox_mm": [
+   12.0,
+   31.3,
+   61.5
+  ],
+  "zip": "zip/CX-CM-01.zip",
+  "zip_name": "CX-CM-01.zip",
+  "zip_kb": 732,
+  "stl": "stl/CX-CM-01.stl",
+  "stl_kb": 1056,
+  "stl_name": "CX-CM-01.stl",
+  "stl_zipname": "CX-CM-01_線材出口固定座_列印.stl",
+  "thumb": "thumbs/CX-CM-01.jpg"
+ },
+ {
   "id": "CX-D01",
   "name_zh": "停靠塢（4 位）",
   "qty": 1,
